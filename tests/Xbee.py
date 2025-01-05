@@ -3,7 +3,7 @@ from utime import sleep
 from time import time
 
 
-tiempo = 100 # Segundos hasta terminar el programa
+tiempo = 10# Segundos hasta terminar el programa
 # Leer UART 
 # uart = UART(1,baudrate=9600, tx=Pin(8),rx=Pin(9))
 uart = UART(0,baudrate=9600,tx=Pin(12),rx=Pin(13))

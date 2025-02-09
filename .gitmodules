@@ -1,0 +1,3 @@
+[submodule "tests/computadora/xbee_ansic_library"]
+	path = tests/computadora/xbee_ansic_library
+	url = git@github.com:digidotcom/xbee_ansic_library.git

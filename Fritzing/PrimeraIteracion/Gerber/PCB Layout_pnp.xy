@@ -1,0 +1,21 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=PCB Layout
+# Date=17:58:07
+# CreatedBy=Fritzing 1.0.3b.2024-05-30.CD-1995-0-a7811ba0
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Mod1,";;;;;;;;","",1302.26,2499.88,-90,Top,MANUAL
+BME280,";;;;;;;;","",425.424,1717.92,180,Top,MANUAL
+BMP180,";;;;;;;;","",524.156,1170.93,0,Top,MANUAL
+MPU9250,";;;;;;;;","",632.886,511.567,180,Top,MANUAL
+XBEE PRO,";;;;;;;;","",1623.49,1383.07,90,Top,MANUAL
